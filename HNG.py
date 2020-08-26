@@ -207,7 +207,3 @@ def sam(a, b):
     return a-b
 
 print(sam(5, 3))
-print()
-
-
-print("hello")
